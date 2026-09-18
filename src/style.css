@@ -166,3 +166,11 @@ body {
   align-items: center;
   padding: 0 3rem;
 }
+.copyright p {
+  color: #555555;
+  font-size: 0.8rem;
+}
+
+.social-links a {
+  color: #d4af37;
+}
