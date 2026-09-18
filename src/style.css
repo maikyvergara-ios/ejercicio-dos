@@ -140,3 +140,19 @@ body {
   flex-direction: column;
   justify-content: center;
 }
+.feature-card:first-child {
+  border-right: 1px solid #222222;
+}
+
+.feature-card h3 {
+  color: #d4af37;
+  font-size: 1.1rem;
+  letter-spacing: 1px;
+  margin-bottom: 0.8rem;
+}
+
+.feature-card p {
+  color: #888888;
+  font-size: 0.85rem;
+  line-height: 1.4;
+}
