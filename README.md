@@ -31,3 +31,10 @@ La estructura de la página ocupa el **100% de ancho** y **100vh de alto**. Ahor
   - Ancho: `75%`
   - Alto: `20%` (equivale a `20vh`)
   - Al estar el flex en modo columna, este footer se ubica justo debajo del `main` en la segunda columna, completando los `100vh` de la parte derecha (`80vh` del main + `20vh` del footer = `100vh`).
+
+## Paleta de Colores (Basada en Diseño Final):
+
+- **Fondos Oscuros (Menú y Paneles):** `#111111` / `#222222` (Negro y gris muy oscuro)
+- **Color de Acento (Títulos):** `#D4AF37` (Dorado elegante)
+- **Texto Principal:** `#FFFFFF` (Blanco)
+- **Texto Secundario:** `#9CA3AF` (Gris claro)
