@@ -84,22 +84,7 @@ body {
   flex-direction: column;
 }
 
-/* --- SECTION HERO (60% de main / 48vh) --- */
-.hero-section {
-  width: 100%;
-  height: 60%;
-  display: flex;
-  border-bottom: 1px solid #222222;
-}
 
-.hero-text {
-  width: 40%;
-  height: 100%;
-  background-color: #181818;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  padding: 3rem;
 }
 
 .hero-text h2 {
